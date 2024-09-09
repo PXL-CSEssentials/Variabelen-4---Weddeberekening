@@ -8,7 +8,7 @@ standaardwaarde. Het standaard uurloon is €17,85 en het standaard aantal
 uren is 1686 per jaar.
 
 De gebruiker gebruikt de tekstvakken *employeeTextBox*,
-hourlyW*ageTextBox* en *numberOfHourTextBox* voor de ingave van de
+*hourlyWageTextBox* en *numberOfHoursTextBox* voor de ingave van de
 gegevens.
 
 Als gebruiker kan ik op de knop *calculateButton* klikken om het
